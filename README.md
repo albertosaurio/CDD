@@ -20,14 +20,14 @@ We're working under this enviroment and languages conventions
 
 Requirement  | Version
 ------------- | -------------
-[Ubuntu](https://ubuntu.com/download/desktop)    |  18.04 LTS 64 bits 
+[Ubuntu](https://ubuntu.com/download/desktop)    |  18.04 LTS 64 bits (at the request of the teacher)
 [C++](https://isocpp.org/)       |  std = 11 
 [GCC](https://gcc.gnu.org/)       |  7.4.0 
 [cppcheck](https://github.com/danmar/cppcheck)  |  1.82 
 [make](https://www.gnu.org/software/make/)      |  4.1 
 [cmake](https://cmake.org/)     |  3.10.2
 
-So in under to make sure that our code will work under your environment you have to install those versions first (if you don't have the utilities).
+So in under to make sure that our code will work under your environment you have to install this tools in these versions or higher(if you don't have the utilities).
 
 If you want to check our code, please check it as you like. Here you can find a command line input to use cppcheck:
 
@@ -55,4 +55,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! 
